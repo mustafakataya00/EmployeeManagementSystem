@@ -1,6 +1,6 @@
 TaskOnHrDB Project
 --
-TaskOnHrDB is a Java-based web application designed for managing employees and departments. This project utilizes Spring Boot for the backend, integrating with MySQL for relational database operations and PL/SQL for stored procedures.
+TaskOnHrDB is a Java-based web application designed for managing employees and departments. This project utilizes Spring Boot for the backend, integrating with MySQL for relational database operations and PL/SQL for stored functions in package.
 
 ![image](https://github.com/mustafakataya00/EmployeeManagementSystem/assets/93375540/74a78d56-3900-4dad-b5cc-77ef22d7d050)
 
